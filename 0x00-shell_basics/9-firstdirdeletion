@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -fr my_first_directoy /tmp
+rmdir /tmp/ my_first_directoy
